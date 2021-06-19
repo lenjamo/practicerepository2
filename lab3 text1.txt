@@ -1,0 +1,2 @@
+Hello,
+This is lab3 txt practice file.
